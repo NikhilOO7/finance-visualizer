@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 ## Use
 
-To view the complete project <a href="https://luisalfonsopreciado.github.io/finance-visualizer/">Click Here</a>
+To view the complete project Click Here
 
 ---
 
