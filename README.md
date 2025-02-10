@@ -6,7 +6,7 @@ Option Strategy Visualizer
 </h1>
 
 <h4 align="center">
-  Web application that makes it easy for users to build and visualize option trading strategies. This project was created for the <a href="https://www.youtube.com/watch?v=X_52RUQTdgs">Software Engineering Project CONTEST - Summer/Fall 2020</a> hosted by AlgoExpert.
+  Web application that makes it easy for users to build and visualize option trading strategies.
 </h4>
 
 ## About
@@ -41,6 +41,3 @@ To view the complete project Click Here
 - Build an option strategy with real time stock data.
 - Visualize the option greeks.
 - Build Popular strategies such as spreads, straddles, butterflies, condors, among others.
-
-
-Made by Luis Alfonso Preciado [Get in touch!](https://www.linkedin.com/in/luis-alfonso-preciado-91256015b/)
